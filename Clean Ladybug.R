@@ -17,10 +17,12 @@ df$stateProvince[df$stateProvince == "Ia"] <- "Iowa"
 df$stateProvince[df$stateProvince == "Il"] <- "Illinois"
 
 #Clean the year
+df$year[is.na(df$year)] <- 0
 df$year <- as.numeric(df$year)
 
 #Clean Scientific Name
 df$scientificName[is.na(df$scientificName)] <- "Unknown"
+df$scientificName <- toupper(df$scientificName)
 
 #Selecting Columns that are going to be used
 df_ladybug <- df %>%
@@ -28,3 +30,5 @@ df_ladybug <- df %>%
                 "Scientific Name" = "scientificName") %>%
   dplyr::select("Scientific Name", "State", "year")
 
+#Write into CSV file
+write.csv(df_ladybug, "/Users/chloefausett/Documents/GitHub/team-entomophobia/Project-Insect-Canivore/data/testing.csv", row.names = FALSE)
