@@ -2,11 +2,12 @@
 
 # Cleaning Process
 The stateProvidence column was cleaned. So all the abbreviations were changed to be the full name of the state. 
-
-`df$stateProvince[df$stateProvince == "IL"] <- "Illinois"`
-`df$stateProvince[df$stateProvince == "IA"] <- "Iowa"`
-`df$stateProvince[df$stateProvince == "Ia"] <- "Iowa"`
-`df$stateProvince[df$stateProvince == "Il"] <- "Illinois"`
+```
+df$stateProvince[df$stateProvince == "IL"] <- "Illinois"
+df$stateProvince[df$stateProvince == "IA"] <- "Iowa"
+df$stateProvince[df$stateProvince == "Ia"] <- "Iowa"
+df$stateProvince[df$stateProvince == "Il"] <- "Illinois"
+```
 
 Next the year column was updated to be numeric.
 
