@@ -69,3 +69,11 @@ write.csv(df_ladybug, "/Users/baodinhgiatran/Documents/GitHub/entomophobia/Proje
 
 - As shown by the graph, most of the data was recorded recently. Eventhough there are some samples recorded in the 20th century, they are much less than the recent ones.
 - We found this information was interesting because it seems like the project started a while ago and has been updating so far. However, we think a spike in the number of records in the 2020s may make the outcome subjective to the time.
+
+2. Number of ladybugs by state:
+<div align = "center">
+<img src = "https://github.com/team-entomophobia/Project-Insect-Canivore/blob/f8411075098096cd18844fb21e4455b73dacfed0/chart_image/bar_chart_by_state.png" width = "600")>
+</div>
+
+- This graph is interesting as it illustrates how significant the number of ladybugs found in Illinois and Iowa is compared to that of other states.
+- This outcome is understandable as our college is in between Illinois and Iowa. Therefore, it is more convenience for researchers to collect the data of this area than others.
