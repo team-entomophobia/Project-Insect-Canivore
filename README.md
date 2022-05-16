@@ -94,3 +94,6 @@ write.csv(df_ladybug, "/Users/baodinhgiatran/Documents/GitHub/entomophobia/Proje
 - Null hypothesis: the average number of ladybugs found per year is 17.
 - Alternative hypothesis: the average number of ladybugs found per year is different than 17.
 - Conclusion: **There is insufficient evidence to say that the average number of ladybugs recorded every year is different than 17.**
+
+---
+## Conclusion
