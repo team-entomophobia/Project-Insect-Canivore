@@ -88,7 +88,7 @@ write.csv(df_ladybug, "/Users/baodinhgiatran/Documents/GitHub/entomophobia/Proje
 
 4. t-test with average number of ladybugs found per year:
 <div align = "center">
-<img src = "https://github.com/team-entomophobia/Project-Insect-Canivore/blob/710b601f11f8b645e394257ccc312c0768cbab68/chart_image/ttest1.png" width = "600")>
+<img src = "https://github.com/team-entomophobia/Project-Insect-Canivore/blob/710b601f11f8b645e394257ccc312c0768cbab68/chart_image/ttest1.png" width = "500")>
 </div>
 
 - Null hypothesis: the average number of ladybugs found per year is 17.
