@@ -1,7 +1,7 @@
 # Project-Insect-Canivore 🐞
 
 ## Contributors
-Bao Tran, Chloe Fausett, Kiet Vu
+Chloe Fausett, Bao Tran, Kiet Vu
 
 ---
 ## Introduction
@@ -97,3 +97,7 @@ write.csv(df_ladybug, "/Users/baodinhgiatran/Documents/GitHub/entomophobia/Proje
 
 ---
 ## Conclusion
+1. Most of ladybugs in this project were recorded in 2021.
+2. Most of the samples were collected in Illinois and Iowa.
+3. _Coleomegilla Maculata_ was found the most.
+4. The average number of ladybugs found every year is relatively low.
