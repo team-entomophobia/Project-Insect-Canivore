@@ -1,6 +1,6 @@
-# Project-Insect-Canivore
+# Project-Insect-Canivore 🐞
 
-## Contributors 🐛
+## Contributors
 Bao Tran, Chloe Fausett, Kiet Vu
 
 ---
@@ -77,3 +77,11 @@ write.csv(df_ladybug, "/Users/baodinhgiatran/Documents/GitHub/entomophobia/Proje
 
 - This graph is interesting as it illustrates how significant the number of ladybugs found in Illinois and Iowa is compared to that of other states.
 - This outcome is understandable as our college is in between Illinois and Iowa. Therefore, it is more convenience for researchers to collect the data of this area than others.
+
+3.  Number of ladybugs by scientific name:
+<div align = "center">
+<img src = "https://github.com/team-entomophobia/Project-Insect-Canivore/blob/bd0a483726bc3e71d7e46ceb4c920ab7b67d65a3/chart_image/bar_chart_scientific_name.png" width = "700")>
+</div>
+
+- According to the graph, _harmonia axyridis_ and _coleomegilla maculata_ are the specicies recorded the most. 
+- Most of the species in this project can be found in Illinois and Iowa. However, some species such as _hyperaspis undulata_ or _anatis mali_ can be found in certain states such as Kansas or Minnesota.
