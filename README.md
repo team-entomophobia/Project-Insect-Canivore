@@ -83,7 +83,7 @@ write.csv(df_ladybug, "/Users/baodinhgiatran/Documents/GitHub/entomophobia/Proje
 <img src = "https://github.com/team-entomophobia/Project-Insect-Canivore/blob/bd0a483726bc3e71d7e46ceb4c920ab7b67d65a3/chart_image/bar_chart_scientific_name.png" width = "700")>
 </div>
 
-- According to the graph, _harmonia axyridis_ and _coleomegilla maculata_ are the specicies recorded the most. 
+- According to the graph, _harmonia axyridis_ and _coleomegilla maculata_ are the species recorded the most. 
 - Most of the species in this project can be found in Illinois and Iowa. However, some species such as _hyperaspis undulata_ or _anatis mali_ can be found in certain states such as Kansas or Minnesota.
 
 4. t-test with average number of ladybugs found per year:
